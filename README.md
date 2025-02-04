@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My `name` is Isaac Dcruz, and I am a student at the University of Pennsylvania studying Computer Science and Math. View my portfolio [here](https://iadcruz.github.io).
 <!--
 **iadcruz/iadcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
