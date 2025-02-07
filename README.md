@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Isaac Dcruz, and I am a student at the University of Pennsylvania, studying Computer Science and Math. View my portfolio [here](https://iadcruz.github.io). </p>
+# My name is Isaac Dcruz, and I am a student at the University of Pennsylvania, studying Computer Science and Math. View my portfolio [here](https://iadcruz.github.io).
 
 ###
 
@@ -39,6 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
 ###
