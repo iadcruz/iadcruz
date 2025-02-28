@@ -2,7 +2,7 @@
 
 ###
 
-My name is Isaac Dcruz, and I am a student at the University of Pennsylvania, studying Computer Science and Math. <br />
+My name is Isaac Dcruz, and I am a student at the University of Pennsylvania majoring in Computer Science and Math. <br />
 View my portfolio [here](https://iadcruz.github.io).
 
 ###
