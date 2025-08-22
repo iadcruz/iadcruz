@@ -13,7 +13,7 @@ My name is Isaac Dcruz, and I am a student at the University of Pennsylvania maj
 
 ###
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(40px, 1fr)); gap: 12px; align-items: center; justify-items: start; max-width: 600px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, 42px); gap: 12px; align-items: center; justify-content: start; width: 100%;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
