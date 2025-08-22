@@ -13,7 +13,7 @@ My name is Isaac Dcruz, and I am a student at the University of Pennsylvania maj
 
 ###
 
-<div align="left" >
+<div align="center" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" style="display:inline-block;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" style="display:inline-block;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" style="display:inline-block;" />
