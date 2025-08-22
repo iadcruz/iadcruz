@@ -2,8 +2,7 @@
 
 ###
 
-My name is Isaac Dcruz, and I am a student at the University of Pennsylvania majoring in Computer Science and Math. <br />
-View my portfolio [here](https://iadcruz.github.io).
+My name is Isaac Dcruz, and I am a student at the University of Pennsylvania majoring in Computer Science and Math. View my portfolio [here](https://iadcruz.github.io).
 
 ###
 
@@ -14,7 +13,7 @@ View my portfolio [here](https://iadcruz.github.io).
 
 ###
 
-<div align="left">
+<div align="left" display="inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
