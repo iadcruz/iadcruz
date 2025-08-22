@@ -38,7 +38,7 @@ My name is Isaac Dcruz, and I am a student at the University of Pennsylvania maj
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" /></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" /></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30 alt="TailwindCSS" /></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="TailwindCSS" /></td>
     </tr>
   </table>
 </div>
